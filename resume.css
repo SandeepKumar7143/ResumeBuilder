@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+#cv-template{
+    display:none;
+}
+
+.myimg{
+    
+    border-radius:50%;
+    width:150px;
+}
+.background{
+    background-color:rgb(118, 221, 152)
+}
